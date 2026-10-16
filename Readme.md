@@ -2,7 +2,7 @@
 
 > **Turning any smartphone into a crop doctor.** An AI-powered Agritech platform that helps farmers detect crop diseases from leaf images, get actionable treatment plans, and protect their harvest.
 
-![Status](https://img.shields.io/badge/Status-Hackathon_Ready-success)
+
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi)
 ![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)
 ![ML](https://img.shields.io/badge/ML-Transfer_Learning_&_Grad--CAM-EE4C2C?logo=pytorch)
